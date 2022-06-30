@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/frocoboys/static/css/main.c6ecebae.css",
-    "main.js": "/frocoboys/static/js/main.f886646c.js",
-    "static/media/logo2.png": "/frocoboys/static/media/logo2.a52c4b6649844e65294d.png",
-    "static/media/logo1.png": "/frocoboys/static/media/logo1.a426f7738af171509cd1.png",
-    "static/media/discord.svg": "/frocoboys/static/media/discord.92fae2d3e62d5c1ea29a8216237a6c21.svg",
-    "static/media/twitter.svg": "/frocoboys/static/media/twitter.88145f5a5efc189af7c91e0ba0dede8e.svg",
-    "index.html": "/frocoboys/index.html",
-    "main.c6ecebae.css.map": "/frocoboys/static/css/main.c6ecebae.css.map",
-    "main.f886646c.js.map": "/frocoboys/static/js/main.f886646c.js.map"
+    "main.css": "/static/css/main.c6ecebae.css",
+    "main.js": "/static/js/main.ae88ff5b.js",
+    "static/media/logo2.png": "/static/media/logo2.a52c4b6649844e65294d.png",
+    "static/media/logo1.png": "/static/media/logo1.a426f7738af171509cd1.png",
+    "static/media/discord.svg": "/static/media/discord.92fae2d3e62d5c1ea29a8216237a6c21.svg",
+    "static/media/twitter.svg": "/static/media/twitter.88145f5a5efc189af7c91e0ba0dede8e.svg",
+    "index.html": "/index.html",
+    "main.c6ecebae.css.map": "/static/css/main.c6ecebae.css.map",
+    "main.ae88ff5b.js.map": "/static/js/main.ae88ff5b.js.map"
   },
   "entrypoints": [
     "static/css/main.c6ecebae.css",
-    "static/js/main.f886646c.js"
+    "static/js/main.ae88ff5b.js"
   ]
 }
