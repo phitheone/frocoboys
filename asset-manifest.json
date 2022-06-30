@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/frocoboys/static/css/main.073c9b0a.css",
-    "main.js": "/frocoboys/static/js/main.ab34d2dd.js",
-    "static/js/787.42193b85.chunk.js": "/frocoboys/static/js/787.42193b85.chunk.js",
-    "static/media/logo.svg": "/frocoboys/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/frocoboys/static/css/main.c6ecebae.css",
+    "main.js": "/frocoboys/static/js/main.f886646c.js",
+    "static/media/logo2.png": "/frocoboys/static/media/logo2.a52c4b6649844e65294d.png",
+    "static/media/logo1.png": "/frocoboys/static/media/logo1.a426f7738af171509cd1.png",
+    "static/media/discord.svg": "/frocoboys/static/media/discord.92fae2d3e62d5c1ea29a8216237a6c21.svg",
+    "static/media/twitter.svg": "/frocoboys/static/media/twitter.88145f5a5efc189af7c91e0ba0dede8e.svg",
     "index.html": "/frocoboys/index.html",
-    "main.073c9b0a.css.map": "/frocoboys/static/css/main.073c9b0a.css.map",
-    "main.ab34d2dd.js.map": "/frocoboys/static/js/main.ab34d2dd.js.map",
-    "787.42193b85.chunk.js.map": "/frocoboys/static/js/787.42193b85.chunk.js.map"
+    "main.c6ecebae.css.map": "/frocoboys/static/css/main.c6ecebae.css.map",
+    "main.f886646c.js.map": "/frocoboys/static/js/main.f886646c.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.ab34d2dd.js"
+    "static/css/main.c6ecebae.css",
+    "static/js/main.f886646c.js"
   ]
 }
